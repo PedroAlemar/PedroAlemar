@@ -22,7 +22,10 @@
 
 </div>
 
-
+<div align="center">
+  <p>Visitors count</p>
+  <img src="https://profile-counter.glitch.me/PedroAlemar/count.svg" alt="Visitor count">
+</div>
 
 
 
