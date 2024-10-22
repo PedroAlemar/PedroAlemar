@@ -21,3 +21,8 @@
  [![Rafael github stats](https://bad-apple-github-readme.vercel.app/api?username=PedroAlemar&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
 [![Docente Rafael current streak](https://streak-stats.demolab.com/?user=PedroAlemar&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<div align="center">
+  <img  src="https://github.com/{your username}/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
+</div>
