@@ -2,10 +2,10 @@
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=134BF7&background=FFFFFF00&center=true&vCenter=true&width=465&lines=Hello!+%F0%9F%91%8B;I'm+Pedro+Alemar;Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=134BF7&background=FFFFFF00&center=true&vCenter=true&width=465&lines=Hello!+%F0%9F%91%8B;I'm+Pedro+Alemar;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </h1>
-
-I’m passionate about coding and always eager to learn new technologies. Feel free to explore my repositories, and I hope they inspire you on your coding journey. Enjoy! 😎
+-
+"I’m Pedro Alemar, a programming student aiming to become a full-stack developer. As an instrumentalist, I’ve developed creativity, discipline, and a problem-solving mindset, which I believe strongly complement my coding journey. My goal is to merge the front and back ends to build seamless, innovative solutions."
 
 ---
 
