@@ -11,7 +11,6 @@
 
 </div>
 <div style="display: inline_block"><br/>
-<img align="center" alt="HTML5" src="![image](https://github.com/user-attachments/assets/1944edeb-4308-4cfe-83d0-643db6f9471b)
-"
+<img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
 
 </div>
