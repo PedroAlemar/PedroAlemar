@@ -1,3 +1,31 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=120&section=header"/>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=134BF7&background=FFFFFF00&center=true&vCenter=true&width=465&lines=Hello!+%F0%9F%91%8B;I'm+Pedro+Alemar;Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+</h1>
+
+I’m passionate about coding and always eager to learn new technologies. Feel free to explore my repositories, and I hope they inspire you on your coding journey. Enjoy! 😎
+
+---
+
+<div align="center">
+  <a href="https://github.com/PedroAlemar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAlemar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlemar&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  </a>
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PedroAlemar&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+</div>
+
+
+
+
+
 
 ### Hello There! 👾 🎮
 
