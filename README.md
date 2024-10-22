@@ -14,3 +14,10 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   </div><br/>
+<br>
+
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=PedroAlemar&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Rafael github stats](https://bad-apple-github-readme.vercel.app/api?username=PedroAlemar&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+[![Docente Rafael current streak](https://streak-stats.demolab.com/?user=PedroAlemar&count_private=true&theme=blue-green&title_color=00b3ff)](#)
